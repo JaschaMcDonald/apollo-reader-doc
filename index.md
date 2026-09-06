@@ -9,11 +9,11 @@ A fast, private comic reader for Windows and Android. Apollo Reader keeps your l
 
 ## User manuals
 
-### [Windows manual](Manuals/Windows/README.html)
+### [Windows manual](Manuals/Windows/)
 
 Installation, library setup, reading controls, settings, and troubleshooting for Apollo Reader on Windows.
 
-### [Android manual](Manuals/Android/README.html)
+### [Android manual](Manuals/Android/)
 
 Installation, storage access, library setup, touch controls, settings, and troubleshooting for Apollo Reader on Android.
 
