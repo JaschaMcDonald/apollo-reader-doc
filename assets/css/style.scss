@@ -51,21 +51,19 @@ blockquote {
 }
 
 ul {
-  list-style: none;
   padding-left: 1.4rem;
 }
 
 ul li {
-  position: relative;
+  list-style: disc;
 }
 
 ul li::before {
+  content: none;
+}
+
+ul li::marker {
   color: var(--apollo-gold);
-  content: "◆";
-  font-size: 0.55em;
-  left: -1.35rem;
-  position: absolute;
-  top: 0.55em;
 }
 
 a,
