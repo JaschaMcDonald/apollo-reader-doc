@@ -16,7 +16,7 @@ Updates to Apollo Reader are also distributed through the Microsoft Store and wi
 
 ## Adding your library
 
-Apollo Reader organizes comics into libraries. Each library can contain one or more folders and can have its own default reading settings.
+Apollo Reader organizes bookss into libraries. Each library can contain one or more folders and can have its own default reading settings.
 
 To add a library:
 
@@ -24,12 +24,12 @@ To add a library:
 2. Open the **Manage** tab.
 3. Click **Add library**.
 4. Enter a name for the library.
-5. Click **Add folder** and select the folder that contains your comics.
+5. Click **Add folder** and select the folder that contains your books.
 6. To include additional folders in the same library, click **Add folder** again and repeat the process.
 
 You can also choose the default reading settings for the library:
 
-* **Reading direction** — Sets the default direction used when navigating through comics in this library.
+* **Reading direction** — Sets the default direction used when navigating through books in this library.
 * **Page fit mode** — Controls how pages are initially sized in the reader.
 
   * **Fit Height** — Fits the page vertically to the available reader area. This is the default and is generally the best option for standard comic books.
@@ -38,7 +38,7 @@ You can also choose the default reading settings for the library:
 
 ### Scrub titles
 
-Enable **Scrub titles** if you want Apollo Reader to clean up comic filenames when displaying them in your library.
+Enable **Scrub titles** if you want Apollo Reader to clean up book filenames when displaying them in your library.
 
 When enabled, Apollo Reader attempts to remove extra filename information while preserving the important parts of the title, such as the **series name**, **issue number**, and **year**.
 
@@ -46,13 +46,13 @@ Once your folders and library defaults are configured, click **Add Library** to 
 
 ## The Cover Grid
 
-To browse your comics, select **Libraries** from the left sidebar, then open the **Libraries** tab.
+To browse your books, select **Libraries** from the left sidebar, then open the **Libraries** tab.
 
-Choose the library you want to view. Apollo Reader will display the contents of that library as a visual cover grid containing both folders and comic books.
+Choose the library you want to view. Apollo Reader will display the contents of that library as a visual cover grid containing both folders and books.
 
 ### Books
 
-Each comic book is displayed using its cover image.
+Each book is displayed using its cover image.
 
 Cover images are generated automatically as you browse through your library, so covers may appear progressively the first time you view a folder or library.
 
@@ -60,21 +60,21 @@ Select a book to open it in the reader.
 
 ### Folders
 
-Folders are displayed using a collage made from several comic covers contained within that folder.
+Folders are displayed using a collage made from several book covers contained within that folder.
 
 Select a folder to open it and browse the books and subfolders inside.
 
-This allows larger collections to retain their existing folder organization while still providing a visual way to browse your comics.
+This allows larger collections to retain their existing folder organization while still providing a visual way to browse your books.
 
 ### Search
 
-Use the search bar at the top of the library view to find comics by title.
+Use the search bar at the top of the library view to find books by title.
 
-Search is global and searches across **all comics in all of your libraries**, regardless of which library you are currently viewing.
+Search is global and searches across **all books in all of your libraries**, regardless of which library you are currently viewing.
 
-## Reading a comic
+## Reading a book
 
-Select any comic from the cover grid to open it in the Apollo Reader.
+Select any book from the cover grid to open it in the Apollo Reader.
 
 ### Reader controls
 
@@ -86,15 +86,15 @@ While reading, the main controls are contained in a hidden toolbar at the top of
 The toolbar includes:
 
 * **Back** — Returns to the previous screen.
-* **Go to folder** — Returns directly to the folder containing the current comic.
-* **Comic title** — Displays the title of the comic currently being read.
+* **Go to folder** — Returns directly to the folder containing the current book.
+* **Book title** — Displays the title of the book currently being read.
 * **Page navigation** — Displays the current page and total number of pages, with controls to move backward or forward.
 * **Full screen** — Switches the reader into or out of full-screen mode.
 * **Settings** — Opens the reader settings for the current reading session.
 
 ### Reader settings
 
-Select the **gear icon** to adjust how the current comic is displayed and navigated.
+Select the **gear icon** to adjust how the current book is displayed and navigated.
 
 Available options include:
 
@@ -105,7 +105,7 @@ Available options include:
 
 * **Page Fit**
 
-  * Controls how comic pages are fitted within the reader window.
+  * Controls how book pages are fitted within the reader window.
 
 * **Direction**
 
