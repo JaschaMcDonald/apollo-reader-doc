@@ -2,17 +2,17 @@
 
 ## Installation
 
-Apollo Reader for Android is distributed as an APK file.
+Apollo Reader is available exclusively through **Google Play** on Android.
 
 To install Apollo Reader:
 
-1. Download the Apollo Reader APK to your Android device.
-2. Open the downloaded APK.
-3. If Android asks for permission to install apps from this source, enable **Allow from this source** for the app you used to open the APK.
-4. Return to the installer and select **Install**.
-5. Once installation is complete, select **Open** to launch Apollo Reader.
+1. Open the **Google Play Store** on your Android device.
+2. Search for **Apollo Reader**.
+3. Select Apollo Reader from the search results.
+4. Tap **Install**.
+5. Once installation is complete, tap **Open**, or launch Apollo Reader later from your app list.
 
-The exact wording and location of the installation permission may vary depending on your Android device and manufacturer.
+Updates to Apollo Reader are also distributed through Google Play and will normally be installed automatically according to your Play Store update settings.
 
 ## Granting storage access
 
@@ -425,7 +425,7 @@ Close Apollo Reader completely and try launching it again.
 
 If the problem continues, restart your Android device.
 
-If Apollo Reader still will not start, reinstall the application using the latest Apollo Reader APK.
+If Apollo Reader still will not start, uninstall it and reinstall it from **Google Play**.
 
 Depending on the problem, reinstalling the application may require you to add your storage locations and libraries again.
 
